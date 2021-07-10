@@ -1,0 +1,144 @@
+Search_Type,PMID,PUB_YEAR,PROJECT_NUMBER,FY_Start,FY_Last,APY,ACTUAL_PROJECT_YEAR,APY_COST_inf2018,Activity_Code,Institute_Code,Acronym_institute_name,full_institute_name,Compressed Names,Project_Count
+Drug,27025652,2016,P01AG015379,1999,2020,2016,2016P01AG015379,2193557,P01,AG,NIA,National Institute on Aging,National Institute on Aging,2
+Drug,28356893,2017,R01AG017139,1999,2013,2013,2013R01AG017139,562179,R01,AG,NIA,National Institute on Aging,National Institute on Aging,2
+Drug,27025652,2016,R01AG006173,2002,2016,2016,2016R01AG006173,450313,R01,AG,NIA,National Institute on Aging,National Institute on Aging,1
+Drug,28356893,2017,T32AG020506,2002,2020,2017,2017T32AG020506,429428,T32,AG,NIA,National Institute on Aging,National Institute on Aging,1
+Drug,33072846,2020,P50AG023501,2004,2018,2018,2018P50AG023501,2036445,P50,AG,NIA,National Institute on Aging,National Institute on Aging,2
+Drug,33199898,2020,P50AG025688,2005,2019,2019,2019P50AG025688,2670351,P50,AG,NIA,National Institute on Aging,National Institute on Aging,3
+Drug,33072846,2020,T32AG023481,2005,2020,2020,2020T32AG023481,480397,T32,AG,NIA,National Institute on Aging,National Institute on Aging,1
+Drug,33072846,2020,R01AG038791,2010,2020,2020,2020R01AG038791,2473531,R01,AG,NIA,National Institute on Aging,National Institute on Aging,1
+Drug,33072846,2020,R01AG045611,2014,2018,2018,2018R01AG045611,612045,R01,AG,NIA,National Institute on Aging,National Institute on Aging,1
+Drug,27739124,2016,P50AG047266,2015,2019,2016,2016P50AG047266,1516475,P50,AG,NIA,National Institute on Aging,National Institute on Aging,2
+Drug,27810931,2016,R01AG044263,2015,2019,2016,2016R01AG044263,488915,R01,AG,NIA,National Institute on Aging,National Institute on Aging,1
+Drug,32808733,2020,R01AG060165,2018,2021,2020,2020R01AG060165,489981,R01,AG,NIA,National Institute on Aging,National Institute on Aging,1
+Drug,32787971,2020,R01AG059008,2018,2020,2020,2020R01AG059008,390428,R01,AG,NIA,National Institute on Aging,National Institute on Aging,1
+Drug,33072846,2020,U19AG063911,2019,2020,2020,2020U19AG063911,12654853,U19,AG,NIA,National Institute on Aging,National Institute on Aging,4
+Drug,33072846,2020,P30AG062422,2019,2020,2020,2020P30AG062422,4253856,P30,AG,NIA,National Institute on Aging,National Institute on Aging,6
+Drug,33199898,2020,P30AG066511,2020,2021,2020,2020P30AG066511,3330589,P30,AG,NIA,National Institute on Aging,National Institute on Aging,3
+Drug,28356893,2017,P30CA060553,1999,2020,2017,2017P30CA060553,5334356,P30,CA,NCI,National Cancer Institute,National Cancer Institute,5
+Drug,27810931,2016,R01EB000768,2002,2015,2015,2015R01EB000768,531075,R01,EB,NIBIB,National Institute of Biomedical Imaging and Bioengineering,National Institute of Biomedical Imaging and Bioengineering,1
+Drug,27810931,2016,P30NS045776,2003,2018,2016,2016P30NS045776,728155,P30,NS,NINDS,National Institute of Neurological Disorders and Stroke,National Institute of Neurological Disorders and Stroke,2
+Drug,27739124,2016,R01NS052318,2005,2020,2016,2016R01NS052318,498617,R01,NS,NINDS,National Institute of Neurological Disorders and Stroke,National Institute of Neurological Disorders and Stroke,1
+Drug,33199898,2020,P51OD011132,2012,2021,2020,2020P51OD011132,11615914,P51,OD,NIH,Office of the Director,Office of the Director,4
+Drug,28356893,2017,P41GM108569,2015,2020,2017,2017P41GM108569,1166877,P41,GM,NIGMS,National Institute of General Medical Sciences,National Institute of General Medical Sciences,3
+Drug,32787971,2020,P20GM109025,2015,2019,2019,2019P20GM109025,2222654,P20,GM,NIGMS,National Institute of General Medical Sciences,National Institute of General Medical Sciences,2
+Drug,28356893,2017,R35GM118145,2016,2021,2017,2017R35GM118145,693789,R35,GM,NIGMS,National Institute of General Medical Sciences,National Institute of General Medical Sciences,1
+Drug,19923550,2009,P01AG007232,1999,2008,2008,2008P01AG007232,2655637,P01,AG,NIA,National Institute on Aging,National Institute on Aging,2
+Drug,29992960,2018,P01AG015379,1999,2020,2018,2018P01AG015379,2095236,P01,AG,NIA,National Institute on Aging,National Institute on Aging,1
+Drug,26208959,2015,P30AG008051,1999,2019,2015,2015P30AG008051,2207267,P30,AG,NIA,National Institute on Aging,National Institute on Aging,3
+Drug,24450891,2014,P30AG008051,1999,2019,2014,2014P30AG008051,1939562,P30,AG,NIA,National Institute on Aging,National Institute on Aging,2
+Drug,26208959,2015,P50AG005134,1999,2018,2015,2015P50AG005134,3004687,P50,AG,NIA,National Institute on Aging,National Institute on Aging,3
+Drug,24450891,2014,P50AG005134,1999,2018,2014,2014P50AG005134,2882717,P50,AG,NIA,National Institute on Aging,National Institute on Aging,2
+Drug,22305802,2012,P50AG005134,1999,2018,2012,2012P50AG005134,2127792,P50,AG,NIA,National Institute on Aging,National Institute on Aging,2
+Drug,20505438,2010,P50AG005134,1999,2018,2010,2010P50AG005134,2294711,P50,AG,NIA,National Institute on Aging,National Institute on Aging,2
+Drug,19923550,2009,P50AG005134,1999,2018,2009,2009P50AG005134,2328561,P50,AG,NIA,National Institute on Aging,National Institute on Aging,2
+Drug,24450891,2014,P50AG005136,1999,2019,2014,2014P50AG005136,2930384,P50,AG,NIA,National Institute on Aging,National Institute on Aging,2
+Drug,19923550,2009,P50AG005136,1999,2019,2009,2009P50AG005136,2981135,P50,AG,NIA,National Institute on Aging,National Institute on Aging,2
+Drug,19923549,2009,P50AG005138,1999,2019,2009,2009P50AG005138,2035963,P50,AG,NIA,National Institute on Aging,National Institute on Aging,2
+Drug,25537424,2015,P50AG005142,1999,2019,2015,2015P50AG005142,2292984,P50,AG,NIA,National Institute on Aging,National Institute on Aging,2
+Drug,19923550,2009,P50AG008671,1999,2010,2009,2009P50AG008671,2269241,P50,AG,NIA,National Institute on Aging,National Institute on Aging,2
+Drug,24450891,2014,P50AG008702,1999,2019,2014,2014P50AG008702,2552345,P50,AG,NIA,National Institute on Aging,National Institute on Aging,2
+Drug,19923550,2009,P50AG008702,1999,2019,2009,2009P50AG008702,2713204,P50,AG,NIA,National Institute on Aging,National Institute on Aging,2
+Drug,19923550,2009,R01AG007370,1999,2020,2009,2009R01AG007370,981191,R01,AG,NIA,National Institute on Aging,National Institute on Aging,1
+Drug,19923550,2009,R37AG006036,1999,2007,2007,2007R37AG006036,442693,R37,AG,NIA,National Institute on Aging,National Institute on Aging,1
+Drug,25537424,2015,U01AG010483,1999,2012,2012,2012U01AG010483,6651372,U01,AG,NIA,National Institute on Aging,National Institute on Aging,1
+Drug,19923550,2009,U01AG010483,1999,2012,2009,2009U01AG010483,11448672,U01,AG,NIA,National Institute on Aging,National Institute on Aging,3
+Drug,19923550,2009,U01AG016976,1999,2020,2009,2009U01AG016976,4060279,U01,AG,NIA,National Institute on Aging,National Institute on Aging,1
+Drug,20189880,2010,P01AG010491,2000,2009,2009,2009P01AG010491,1634500,P01,AG,NIA,National Institute on Aging,National Institute on Aging,2
+Drug,19923549,2009,P01AG010491,2000,2009,2009,2009P01AG010491,1634500,P01,AG,NIA,National Institute on Aging,National Institute on Aging,2
+Drug,24525778,2014,P50AG016573,2000,2019,2014,2014P50AG016573,2385103,P50,AG,NIA,National Institute on Aging,National Institute on Aging,2
+Drug,23555764,2013,P50AG016573,2000,2019,2013,2013P50AG016573,2349217,P50,AG,NIA,National Institute on Aging,National Institute on Aging,3
+Drug,19923550,2009,R01AG017761,2000,2012,2009,2009R01AG017761,980479,R01,AG,NIA,National Institute on Aging,National Institute on Aging,1
+Drug,23555764,2013,P30AG019610,2001,2020,2013,2013P30AG019610,1462443,P30,AG,NIA,National Institute on Aging,National Institute on Aging,3
+Drug,21263194,2011,P30AG019610,2001,2020,2011,2011P30AG019610,1821771,P30,AG,NIA,National Institute on Aging,National Institute on Aging,2
+Drug,19923550,2009,P30AG019610,2001,2020,2009,2009P30AG019610,1736642,P30,AG,NIA,National Institute on Aging,National Institute on Aging,2
+Drug,23555764,2013,R01AG019795,2001,2013,2013,2013R01AG019795,347234,R01,AG,NIA,National Institute on Aging,National Institute on Aging,1
+Drug,21263194,2011,R01AG019795,2001,2013,2011,2011R01AG019795,380535,R01,AG,NIA,National Institute on Aging,National Institute on Aging,1
+Drug,24525778,2014,R01AG020241,2001,2016,2014,2014R01AG020241,355085,R01,AG,NIA,National Institute on Aging,National Institute on Aging,1
+Drug,20205639,2010,R01AG020241,2001,2016,2010,2010R01AG020241,493131,R01,AG,NIA,National Institute on Aging,National Institute on Aging,1
+Drug,29992960,2018,R01AG006173,2002,2016,2016,2016R01AG006173,450313,R01,AG,NIA,National Institute on Aging,National Institute on Aging,1
+Drug,19923549,2009,R01AG022462,2003,2007,2007,2007R01AG022462,181665,R01,AG,NIA,National Institute on Aging,National Institute on Aging,1
+Drug,25537424,2015,U01AG024904,2004,2015,2015,2015U01AG024904,9895590,U01,AG,NIA,National Institute on Aging,National Institute on Aging,3
+Drug,19923550,2009,U01AG024904,2004,2015,2009,2009U01AG024904,7357806,U01,AG,NIA,National Institute on Aging,National Institute on Aging,5
+Drug,19923550,2009,R03AG023916,2005,2006,2006,2006R03AG023916,72510,R03,AG,NIA,National Institute on Aging,National Institute on Aging,1
+Drug,19923550,2009,R01AG027435,2006,2016,2009,2009R01AG027435,1356327,R01,AG,NIA,National Institute on Aging,National Institute on Aging,1
+Drug,19923550,2009,R01AG026114,2007,2011,2009,2009R01AG026114,373432,R01,AG,NIA,National Institute on Aging,National Institute on Aging,1
+Drug,19923550,2009,P01AG030004,2008,2012,2009,2009P01AG030004,2257143,P01,AG,NIA,National Institute on Aging,National Institute on Aging,3
+Drug,25537424,2015,R01AG030048,2008,2012,2012,2012R01AG030048,699765,R01,AG,NIA,National Institute on Aging,National Institute on Aging,1
+Drug,19923550,2009,R01AG030457,2008,2010,2009,2009R01AG030457,440928,R01,AG,NIA,National Institute on Aging,National Institute on Aging,1
+Drug,19923550,2009,U01AG032438,2008,2009,2009,2009U01AG032438,3597240,U01,AG,NIA,National Institute on Aging,National Institute on Aging,2
+Drug,20497044,2010,R01AG031278,2009,2013,2010,2010R01AG031278,277161,R01,AG,NIA,National Institute on Aging,National Institute on Aging,1
+Drug,19923549,2009,R21AG033387,2009,2010,2009,2009R21AG033387,214691,R21,AG,NIA,National Institute on Aging,National Institute on Aging,1
+Drug,19923550,2009,R43AG033474,2009,2009,2009,2009R43AG033474,378412,R43,AG,NIA,National Institute on Aging,National Institute on Aging,1
+Drug,22305802,2012,K24AG035007,2010,2020,2012,2012K24AG035007,152657,K24,AG,NIA,National Institute on Aging,National Institute on Aging,1
+Drug,24716687,2014,U19AG010483,2013,2020,2014,2014U19AG010483,13789415,U19,AG,NIA,National Institute on Aging,National Institute on Aging,3
+Drug,29992960,2018,R01AG046275,2014,2018,2018,2018R01AG046275,354897,R01,AG,NIA,National Institute on Aging,National Institute on Aging,1
+Drug,29992960,2018,RF1AG006173,2017,2017,2017,2017RF1AG006173,2260184,RF1,AG,NIA,National Institute on Aging,National Institute on Aging,1
+Drug,32497293,2020,RF1AG059695,2019,2019,2019,2019RF1AG059695,3594762,RF1,AG,NIA,National Institute on Aging,National Institute on Aging,1
+Drug,19923550,2009,T32NS007224,1999,2020,2009,2009T32NS007224,81369,T32,NS,NINDS,National Institute of Neurological Disorders and Stroke,National Institute of Neurological Disorders and Stroke,1
+Drug,19923550,2009,P01NS015655,2001,2012,2009,2009P01NS015655,1487480,P01,NS,NINDS,National Institute of Neurological Disorders and Stroke,National Institute of Neurological Disorders and Stroke,2
+Drug,19923550,2009,R01NS042859,2003,2012,2009,2009R01NS042859,781192,R01,NS,NINDS,National Institute of Neurological Disorders and Stroke,National Institute of Neurological Disorders and Stroke,1
+Drug,24525778,2014,R01NS050895,2004,2018,2014,2014R01NS050895,686021,R01,NS,NINDS,National Institute of Neurological Disorders and Stroke,National Institute of Neurological Disorders and Stroke,1
+Drug,20205639,2010,R01NS050895,2004,2018,2010,2010R01NS050895,509534,R01,NS,NINDS,National Institute of Neurological Disorders and Stroke,National Institute of Neurological Disorders and Stroke,1
+Drug,20497044,2010,K23NS048855,2005,2009,2009,2009K23NS048855,188407,K23,NS,NINDS,National Institute of Neurological Disorders and Stroke,National Institute of Neurological Disorders and Stroke,1
+Drug,20548049,2010,R41NS056856,2008,2008,2008,2008R41NS056856,168106,R41,NS,NINDS,National Institute of Neurological Disorders and Stroke,National Institute of Neurological Disorders and Stroke,1
+Drug,20205639,2010,U44NS065518,2009,2013,2010,2010U44NS065518,359184,U44,NS,NINDS,National Institute of Neurological Disorders and Stroke,National Institute of Neurological Disorders and Stroke,1
+Drug,23555764,2013,U24NS072026,2011,2015,2013,2013U24NS072026,1604846,U24,NS,NINDS,National Institute of Neurological Disorders and Stroke,National Institute of Neurological Disorders and Stroke,1
+Drug,24450891,2014,R01NS080820,2013,2017,2014,2014R01NS080820,359493,R01,NS,NINDS,National Institute of Neurological Disorders and Stroke,National Institute of Neurological Disorders and Stroke,1
+Drug,19923550,2009,P20RR020626,2004,2006,2006,2006P20RR020626,607840,P20,RR,NCRR,National Center for Research Resources,National Center for Research Resources,3
+Drug,19923550,2009,P50MH068789,2004,2008,2008,2008P50MH068789,1887949,P50,MH,NIMH,National Institute of Mental Health,National Institute of Mental Health,1
+Drug,24733588,2015,R01MH098737,2012,2015,2015,2015R01MH098737,356355,R01,MH,NIMH,National Institute of Mental Health,National Institute of Mental Health,1
+Drug,19923550,2009,R21DK062098,2004,2005,2005,2005R21DK062098,241087,R21,DK,NIDDK,National Institute of Diabetes and Digestive and Kidney Diseases,National Institute of Diabetes and Digestive and Kidney Diseases,1
+Drug,19923550,2009,RL1AA017536,2007,2011,2009,2009RL1AA017536,537348,RL1,AA,NIAAA,National Institute on Alcohol Abuse and Alcoholism,National Institute on Alcohol Abuse and Alcoholism,2
+Drug,19923550,2009,R01HL091099,2008,2010,2009,2009R01HL091099,780849,R01,HL,NHLBI,"National Heart, Lung, and Blood Institute","National Heart, Lung, and Blood Institute",2
+Drug,19923549,2009,K01EB009724,2009,2009,2009,2009K01EB009724,120809,K01,EB,NIBIB,National Institute of Biomedical Imaging and Bioengineering,National Institute of Biomedical Imaging and Bioengineering,1
+Drug,19923549,2009,R49CE001495,2009,2013,2009,2009R49CE001495,1140538,R49,CE,NCIPC,National Center for Injury Prevention and Control,National Center for Injury Prevention and Control,1
+Drug,31168802,2019,P01AG015379,1999,2020,2019,2019P01AG015379,1702334,P01,AG,NIA,National Institute on Aging,National Institute on Aging,2
+Drug,32418361,2020,P30AG019610,2001,2020,2020,2020P30AG019610,3285361,P30,AG,NIA,National Institute on Aging,National Institute on Aging,3
+Drug,30231896,2018,P30AG019610,2001,2020,2018,2018P30AG019610,2991508,P30,AG,NIA,National Institute on Aging,National Institute on Aging,3
+Drug,30090848,2018,P30AG019610,2001,2020,2018,2018P30AG019610,2991508,P30,AG,NIA,National Institute on Aging,National Institute on Aging,3
+Drug,29955659,2018,P30AG019610,2001,2020,2018,2018P30AG019610,2991508,P30,AG,NIA,National Institute on Aging,National Institute on Aging,3
+Drug,29405233,2018,P30AG019610,2001,2020,2018,2018P30AG019610,2991508,P30,AG,NIA,National Institute on Aging,National Institute on Aging,3
+Drug,31168802,2019,R01AG046275,2014,2018,2018,2018R01AG046275,354897,R01,AG,NIA,National Institute on Aging,National Institute on Aging,1
+Drug,31168802,2019,RF1AG006173,2017,2017,2017,2017RF1AG006173,2260184,RF1,AG,NIA,National Institute on Aging,National Institute on Aging,1
+Drug,32418361,2020,R01AG055444,2017,2021,2020,2020R01AG055444,2150786,R01,AG,NIA,National Institute on Aging,National Institute on Aging,1
+Drug,30090848,2018,R01AG055444,2017,2021,2018,2018R01AG055444,2207066,R01,AG,NIA,National Institute on Aging,National Institute on Aging,1
+Drug,29955659,2018,R01AG055444,2017,2021,2018,2018R01AG055444,2207066,R01,AG,NIA,National Institute on Aging,National Institute on Aging,1
+Drug,29405233,2018,R01AG055444,2017,2021,2018,2018R01AG055444,2207066,R01,AG,NIA,National Institute on Aging,National Institute on Aging,1
+Drug,32568196,2020,P30AG066462,2020,2021,2020,2020P30AG066462,3262290,P30,AG,NIA,National Institute on Aging,National Institute on Aging,3
+Drug,31647950,2020,K12GM088021,2009,2020,2020,2020K12GM088021,1016449,K12,GM,NIGMS,National Institute of General Medical Sciences,National Institute of General Medical Sciences,1
+Drug,28924036,2017,ZIABC010442,2009,2019,2017,2017ZIABC010442,155206,ZIA,BC,FDA,Division of Basic Sciences,Division of Basic Sciences,1
+Drug,29695589,2018,UL1TR001863,2016,2020,2018,2018UL1TR001863,9546825,UL1,TR,NCATS,National Center for Advancing Translational Sciences,National Center for Advancing Translational Sciences,2
+Drug,31647950,2020,R21NS111267,2019,2019,2019,2019R21NS111267,394749,R21,NS,NINDS,National Institute of Neurological Disorders and Stroke,National Institute of Neurological Disorders and Stroke,1
+Drug,24886908,2014,P50AG005131,1999,2018,2014,2014P50AG005131,3366686,P50,AG,NIA,National Institute on Aging,National Institute on Aging,2
+Drug,26526537,2015,P50AG005138,1999,2019,2015,2015P50AG005138,2165092,P50,AG,NIA,National Institute on Aging,National Institute on Aging,3
+Drug,24886908,2014,U01AG010483,1999,2012,2012,2012U01AG010483,6651372,U01,AG,NIA,National Institute on Aging,National Institute on Aging,1
+Drug,22672770,2012,U01AG010483,1999,2012,2012,2012U01AG010483,6651372,U01,AG,NIA,National Institute on Aging,National Institute on Aging,1
+Drug,29683808,2018,P50AG016573,2000,2019,2018,2018P50AG016573,2240469,P50,AG,NIA,National Institute on Aging,National Institute on Aging,3
+Drug,22672770,2012,R01AG016381,2000,2009,2009,2009R01AG016381,1024741,R01,AG,NIA,National Institute on Aging,National Institute on Aging,1
+Drug,27725918,2016,P30AG019610,2001,2020,2016,2016P30AG019610,1901149,P30,AG,NIA,National Institute on Aging,National Institute on Aging,2
+Drug,27725918,2016,R01AG019795,2001,2013,2013,2013R01AG019795,347234,R01,AG,NIA,National Institute on Aging,National Institute on Aging,1
+Drug,29955651,2018,U01AG024904,2004,2015,2015,2015U01AG024904,9895590,U01,AG,NIA,National Institute on Aging,National Institute on Aging,3
+Drug,27019841,2015,U01AG024904,2004,2015,2015,2015U01AG024904,9895590,U01,AG,NIA,National Institute on Aging,National Institute on Aging,3
+Drug,26402769,2015,U01AG024904,2004,2015,2015,2015U01AG024904,9895590,U01,AG,NIA,National Institute on Aging,National Institute on Aging,3
+Drug,22672770,2012,U01AG024904,2004,2015,2012,2012U01AG024904,890755,U01,AG,NIA,National Institute on Aging,National Institute on Aging,1
+Drug,22672770,2012,P01AG030004,2008,2012,2012,2012P01AG030004,1372066,P01,AG,NIA,National Institute on Aging,National Institute on Aging,2
+Drug,22672770,2012,R01AG030048,2008,2012,2012,2012R01AG030048,699765,R01,AG,NIA,National Institute on Aging,National Institute on Aging,1
+Drug,22672770,2012,R01AG030457,2008,2010,2010,2010R01AG030457,438788,R01,AG,NIA,National Institute on Aging,National Institute on Aging,1
+Drug,26526537,2015,RF1AG042965,2012,2012,2012,2012RF1AG042965,564140,RF1,AG,NIA,National Institute on Aging,National Institute on Aging,1
+Drug,24886908,2014,U19AG010483,2013,2020,2014,2014U19AG010483,13789415,U19,AG,NIA,National Institute on Aging,National Institute on Aging,3
+Drug,26526537,2015,U01AG046170,2013,2020,2015,2015U01AG046170,2023621,U01,AG,NIA,National Institute on Aging,National Institute on Aging,3
+Drug,26526537,2015,R34AG049649,2014,2014,2014,2014R34AG049649,388743,R34,AG,NIA,National Institute on Aging,National Institute on Aging,1
+Drug,26215784,2015,R01AG046275,2014,2018,2015,2015R01AG046275,365763,R01,AG,NIA,National Institute on Aging,National Institute on Aging,1
+Drug,29683808,2018,R21AG056931,2017,2018,2018,2018R21AG056931,183868,R21,AG,NIA,National Institute on Aging,National Institute on Aging,1
+Drug,31910414,2020,P30DK026743,1999,2020,2020,2020P30DK026743,1116637,P30,DK,NIDDK,National Institute of Diabetes and Digestive and Kidney Diseases,National Institute of Diabetes and Digestive and Kidney Diseases,2
+Drug,28593105,2017,R01NS067435,2010,2014,2014,2014R01NS067435,351176,R01,NS,NINDS,National Institute of Neurological Disorders and Stroke,National Institute of Neurological Disorders and Stroke,1
+Drug,27725918,2016,U24NS072026,2011,2015,2015,2015U24NS072026,1703542,U24,NS,NINDS,National Institute of Neurological Disorders and Stroke,National Institute of Neurological Disorders and Stroke,1
+Drug,26526537,2015,R01NS075685,2012,2015,2015,2015R01NS075685,392805,R01,NS,NINDS,National Institute of Neurological Disorders and Stroke,National Institute of Neurological Disorders and Stroke,1
+Drug,27266343,2016,ZIABC010440,2009,2019,2016,2016ZIABC010440,754991,ZIA,BC,FDA,Division of Basic Sciences,Division of Basic Sciences,1
+Drug,27266343,2016,ZIABC010441,2009,2019,2016,2016ZIABC010441,603993,ZIA,BC,FDA,Division of Basic Sciences,Division of Basic Sciences,1
+Drug,27266343,2016,ZIABC010442,2009,2019,2016,2016ZIABC010442,150998,ZIA,BC,FDA,Division of Basic Sciences,Division of Basic Sciences,1
+Drug,24886908,2014,KL2RR031978,2010,2011,2011,2011KL2RR031978,515529,KL2,RR,NCRR,National Center for Research Resources,National Center for Research Resources,1
+Drug,26526537,2015,R21AT005510,2010,2014,2014,2014R21AT005510,174394,R21,AT,NCCIH,National Center for Complementary and Integrative Health,National Center for Complementary and Integrative Health,1
+Drug,29683808,2018,UL1TR000153,2012,2015,2015,2015UL1TR000153,1755074,UL1,TR,NCATS,National Center for Advancing Translational Sciences,National Center for Advancing Translational Sciences,1
+Drug,29683808,2018,UL1TR001414,2015,2021,2018,2018UL1TR001414,4491764,UL1,TR,NCATS,National Center for Advancing Translational Sciences,National Center for Advancing Translational Sciences,2
