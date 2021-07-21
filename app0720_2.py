@@ -17,11 +17,6 @@ import dash_bootstrap_components as dbc
 # from NIH_Funding_Search import NIH_Search_Drug
 
 
-# In[2]:
-
-
-dbc.__version__
-
 
 # In[3]:
 
