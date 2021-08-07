@@ -4,7 +4,6 @@ itsdangerous==1.1.0
 pandas==1.2.4
 plotly==4.14.1
 dash_bootstrap_components==0.12.2
-Bio.Entrez
 os
 Bio
 csv
