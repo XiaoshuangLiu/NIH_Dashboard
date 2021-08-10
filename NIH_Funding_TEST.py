@@ -10,7 +10,6 @@
 import pandas as pd
 from pandas import DataFrame
 from Bio import Entrez
-from Bio.Entrez import efetch
 import csv   
 import os
 
